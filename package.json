@@ -1,6 +1,6 @@
 {
-  "name": "docs",
-  "private": true,
+  "name": "checkw1k1",
+  "private": false,
   "scripts": {
     "dev": "next",
     "start": "next start",
