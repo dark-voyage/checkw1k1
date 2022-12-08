@@ -100,16 +100,7 @@ export default {
           >
             UwUssimo Robinson
           </a>{' '}
-          tomonidan yurutiladi va{' '}
-          <a
-            href='https://vercel.com/?utm_source=uwu'
-            target='_blank'
-            rel='noopener'
-            className='no-underline font-semibold'
-          >
-            Vercel
-          </a>
-          da taqdim etiladi.
+          tomonidan yurutiladi
         </p>
       )
     },
