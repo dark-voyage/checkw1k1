@@ -1,19 +1,5 @@
 {
-  "index": "Introduction",
-  "guide": "Guide",
-  "-- Themes --": {
-    "type": "separator",
-    "title": "Themes"
-  },
-  "docs-theme": "Docs Theme",
-  "blog-theme": "Blog Theme",
-  "custom-theme": "Custom Theme",
-  "-- About --": {
-    "type": "separator",
-    "title": "More"
-  },
-  "about link": {
-    "title": "About Nextra",
-    "href": "/about"
-  }
+  "index": "Get Started",
+  "api": "API",
+  "showcases": "Showcases"
 }

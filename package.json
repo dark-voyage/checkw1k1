@@ -1,27 +1,22 @@
 {
-  "name": "checkw1k1",
-  "private": false,
-  "scripts": {
-    "dev": "next",
-    "start": "next start",
-    "build": "next build"
-  },
-  "author": "Shu Ding",
-  "license": "MIT",
+  "name": "checmed1a",
+  "version": "1.0.0",
+  "description": "Wiki website of checkmed1a",
+  "main": "theme.config.js",
   "dependencies": {
-    "clsx": "^1.2.1",
-    "framer-motion": "^7.3.2",
-    "next": "^13.0.5",
+    "cobe": "^0.6.2",
+    "next": "^13.0.6",
     "nextra": "2.0.1",
     "nextra-theme-docs": "2.0.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.0.0",
+    "react-dom": "^18.2.0",
+    "react-spring": "^9.5.5"
   },
-  "devDependencies": {
-    "@types/node": "^18.11.9",
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.19",
-    "tailwindcss": "^3.2.4",
-    "typescript": "^4.9.3"
-  }
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "author": "UwUssimo Robinson <papa@uwussi.moe>",
+  "license": "MIT"
 }

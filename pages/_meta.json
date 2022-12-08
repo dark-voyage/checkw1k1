@@ -1,29 +1,24 @@
 {
   "index": {
-    "title": "Nextra",
+    "title": "Asosiy",
     "type": "page",
-    "display": "hidden",
+    "hidden": true,
     "theme": {
-      "layout": "raw"
+      "sidebar": false,
+      "toc": false,
+      "footer": true,
+      "pagination": true,
+      "breadcrumb": false
     }
   },
   "docs": {
-    "title": "Documentation",
+    "title": "Qo'llanma",
     "type": "page"
   },
-  "showcase": {
-    "title": "Showcase",
+  "telegram": {
+    "title": "Jamiyat",
     "type": "page",
-    "theme": {
-      "typesetting": "article",
-      "layout": "full"
-    }
-  },
-  "about": {
-    "title": "About",
-    "type": "page",
-    "theme": {
-      "typesetting": "article"
-    }
+    "newWindow": true,
+    "href": "https://t.me/pwnosx"
   }
 }
