@@ -55,7 +55,7 @@ export default {
     return (
       <>
         <meta name='msapplication-TileColor' content='#ffffff' />
-        <meta httpEquiv='Content-Language' content='en' />
+        <meta httpEquiv='Content-Language' content='uz' />
         <meta
           name='description'
           content="O'zbek dasturchilar uchun yaratilgan Apple ecosistema jamiyati."
